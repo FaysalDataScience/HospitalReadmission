@@ -3,6 +3,6 @@ seaborn
 matplotlib
 numpy
 scipy
-sklearn
+scikit-learn
 imblearn
 streamlit
