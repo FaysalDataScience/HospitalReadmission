@@ -5,5 +5,4 @@ numpy
 scipy
 sklearn
 imblearn
-pickle
 streamlit
